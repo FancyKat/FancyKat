@@ -1,6 +1,6 @@
 # Hello World 🌎 I'm Paulo 👋🏻
 
-- 👩🏻‍💼 ➡️ 👩🏻‍💻  I'm an Environmental Engineering Student gone Programmer
+<!-- - 👩🏻‍💼 ➡️ 👩🏻‍💻  I'm an Environmental Engineering Student gone Programmer -->
 - 🥞  Full stack Python Developer from California
 
 ## Current Tech Toolkit 🧰
