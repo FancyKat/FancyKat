@@ -1,7 +1,7 @@
 # Hello World 🌎 I'm Paulo 👋🏻
 
 <!-- - 👩🏻‍💼 ➡️ 👩🏻‍💻  I'm an Environmental Engineering Student gone Programmer -->
-- 🥞  Full stack Python Developer from California
+- 🥞  Full stack Python Developer from Washington
 
 ## Current Tech Toolkit 🧰
 
