@@ -1,4 +1,4 @@
-# Hello World 🌎 I'm Paulo 👋🏻
+# Hello World 🌎 I'm Marty 👋🏻
 
 <!-- - 👩🏻‍💼 ➡️ 👩🏻‍💻  I'm an Environmental Engineering Student gone Programmer -->
 - 🥞  Full stack Python Developer from Washington
