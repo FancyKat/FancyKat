@@ -1,7 +1,6 @@
 # Hello World 🌎 I'm Marty 👋🏻
 
 <!-- - 👩🏻‍💼 ➡️ 👩🏻‍💻  I'm an Environmental Engineering Student gone Programmer -->
-- 🥞  Full stack Python Developer from Washington
 
 ## Current Tech Toolkit 🧰
 
