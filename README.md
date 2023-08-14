@@ -21,6 +21,7 @@
 ![AdobeXD](https://img.shields.io/badge/Adobe-E5505A?style=for-the-badge&logo=adobe-xd&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-2F1C53?style=for-the-badge&logo=django&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0575e6?style=for-the-badge&logo=discord&logoColor=black)
 
 
 
