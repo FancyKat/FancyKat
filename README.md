@@ -26,7 +26,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyKat&layout=compact&theme=cobalt&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
-[![Marty's GitHub stats](https://github-readme-stats.vercel.app/api?username=FancyKat)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://komarev.com/ghpvc/?username=FancyKat&color=e582d8&style=flat)
