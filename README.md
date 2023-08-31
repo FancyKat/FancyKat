@@ -25,7 +25,7 @@
 ![AWS](https://img.shields.io/badge/Amazon-00C7B7?style=for-the-badge&logo=amazon&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyKat&layout=compact&theme=cobalt&card_width=600)](https://github.com/anuraghazra/github-readme-stats)
-[![Marty's GitHub stats](https://github-readme-stats.vercel.app/api?username=FancyKat)](https://github.com/anuraghazra/github-readme-stats)
+# [![Marty's GitHub stats](https://github-readme-stats.vercel.app/api?username=FancyKat)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
