@@ -27,12 +27,14 @@
 ![AWS](https://img.shields.io/badge/AWS-00C7B7?style=for-the-badge&logo=amazon&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-E5505A?style=for-the-badge&logo=jenkins&logoColor=black)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyKat&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://komarev.com/ghpvc/?username=FancyKat&color=e582d8&style=flat)
-
 ---
-#### Connect with me:
+### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/paulo-martin90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FancyKat" height="30" width="40" /></a>
 </p><br/>
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyKat&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=FancyKat&color=e582d8&style=flat)
