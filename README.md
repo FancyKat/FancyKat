@@ -23,6 +23,8 @@
 ![Django](https://img.shields.io/badge/Django-2F1C53?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0575e6?style=for-the-badge&logo=docker&logoColor=black)
 ![AWS](https://img.shields.io/badge/Amazon-00C7B7?style=for-the-badge&logo=amazon&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-E5505A?style=for-the-badge&logo=jenkins-xd&logoColor=black)
+
 
 
 ![](https://komarev.com/ghpvc/?username=FancyKat&color=e582d8&style=flat)
