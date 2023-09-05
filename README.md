@@ -23,7 +23,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-2F1C53?style=for-the-badge&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0575e6?style=for-the-badge&logo=docker&logoColor=black)
-![AWS](https://img.shields.io/badge/Amazon-00C7B7?style=for-the-badge&logo=amazon&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-00C7B7?style=for-the-badge&logo=amazon&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-E5505A?style=for-the-badge&logo=jenkins&logoColor=black)
 
 
