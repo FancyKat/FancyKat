@@ -1,5 +1,7 @@
 # Hello World 🌎 I'm Marty 👋🏻
 
+---
+
 ## Toolkit 🧰
 
 ![Python](https://img.shields.io/badge/Python-074COO?style=for-the-badge&logo=python&logoColor=black)
@@ -29,3 +31,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FancyKat&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=FancyKat&color=e582d8&style=flat)
+
+---
+### Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/paulo-martin90" target="blank"><img align="center" src="https://raw.githubusercontent.com/FancyKat/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FancyKat" height="30" width="40" /></a>
+</p><br/>
+
+
