@@ -33,11 +33,6 @@
 ![](https://komarev.com/ghpvc/?username=FancyKat&color=e582d8&style=flat)
 
 ---
-### Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/paulo-martin90" target="blank"><img align="center" src="https://raw.githubusercontent.com/FancyKat/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FancyKat" height="30" width="40" /></a>
-</p><br/>
-
 #### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/paulo-martin90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="FancyKat" height="30" width="40" /></a>
