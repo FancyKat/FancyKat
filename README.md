@@ -9,6 +9,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Panda](https://img.shields.io/badge/Panda-0575e6?style=for-the-badge&logo=pandas&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-074COO?style=for-the-badge&logo=typescript&logoColor=black)
 ![Discord](https://img.shields.io/badge/Discord-0575e6?style=for-the-badge&logo=discord&logoColor=black)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
